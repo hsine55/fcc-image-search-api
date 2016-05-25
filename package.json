@@ -1,0 +1,11 @@
+{
+  "name": "image-search-abstraction-layer",
+  "version": "0.0.0",
+  "description": "FreeCodeCamp API: Image Search Abstraction Layer",
+  "main": "server.js",
+  "repository": "",
+  "author": "hassine ben messaoud <hsine.benmessaoud@gmail.com>",
+  "dependencies": {
+    "bing.search": "^1.0.1",
+  }
+}
